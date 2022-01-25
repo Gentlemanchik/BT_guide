@@ -1,2 +1,2 @@
 ## Карта Чёрного Храма ##
-![BT_map](BT_guide/im)
+![BT_map](BT_guide/img/BT_Map.png)
