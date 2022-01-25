@@ -123,9 +123,3 @@
 ударом ненависти. Супремус даст фору.*
 
 
-
-
-
-
-<script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
-<script src="https://wow.zamimg.com/widgets/power.js"></script>
