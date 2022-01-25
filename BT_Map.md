@@ -1,7 +1,7 @@
 ## Карта Чёрного Храма ##
 
 
-![BT_map](https://github.com/Gentlemanchik/BT_guide/blob/main/img/BT_Map.png)
+![BT_map](/img/BT_Map.png)
 
 
 Нарисовано криво. Но, как говориться, «с душой», хех) Боссы и важные места на карте:
