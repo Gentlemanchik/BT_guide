@@ -7,7 +7,7 @@
 [Эликсир истребления демонов](https://ru.tbc.wowhead.com/item=9224)
 
 
-(/BT_Map.jpg)
+![Bt_map](/BT_Map.png)
 
 <script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
