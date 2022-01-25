@@ -20,6 +20,5 @@
 9. **Иллидан Ярость Бури:** двум танкам принести вещи на сопротивление огненной магии. Одному чернокнижнику принести вещи на сопротивление тёмной магии. Принести [сильные зелья защиты от огня](https://ru.tbc.wowhead.com/spell=28571).[Семяна колючечника](https://ru.tbc.wowhead.com/item=18297) можно захватить. Подробнее о том, как двум танкам получить ФР сет – перед разбором Иллидана Ярость Бури.
 
 
-<script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script> <script src="https://wow.zamimg.com/widgets/power.js"></script>
-
-
+<script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
+<script src="https://wow.zamimg.com/widgets/power.js"></script>
