@@ -20,8 +20,9 @@
 4. [Грохот прилива](https://ru.tbc.wowhead.com/spell=39878) (мгновенный каст): Щит Надж’ентуса взрывается, нанося всем игрокам 8500 урона от магии <span style = "color:blue"> льда </span>. 
 5. **Двойная атака**: Полководец одновременно ударяет два раза. Шанс прока 25%. КД прока 3 с
 
-<p align = "center"> ### Tactics ### </p>
+<h1 align = "center"> Tactics  </h1>
 
+Босс по большей части на проверку Хилов хорошо прохиливать рейд. Надж’ентус запуливается либо танком, либо [перенаправлением](https://ru.tbc.wowhead.com/spell=34477). Полководец ставится между двумя колоннами. Рейд равномерно распределяется по арене, как показано на плане.
 
 <script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
