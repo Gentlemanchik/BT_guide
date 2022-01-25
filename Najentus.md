@@ -20,6 +20,8 @@
 4. [Грохот прилива](https://ru.tbc.wowhead.com/spell=39878) (мгновенный каст): Щит Надж’ентуса взрывается, нанося всем игрокам 8500 урона от магии <span style = "color:blue"> льда </span>. 
 5. **Двойная атака**: Полководец одновременно ударяет два раза. Шанс прока 25%. КД прока 3 с
 
+<p align = "center"> ### Tactics ### </p>
+
 
 <script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
