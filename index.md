@@ -13,6 +13,3 @@
   <span style="color: red"> Дисклеймер! </span> автор проверял всё, что можно было проверить. Но гайды основывались на ПТРе. Что будет при выходе контента – неизвестно.  Если есть замечания – пишите.
 </p>
 
-
-<script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
-<script src="https://wow.zamimg.com/widgets/power.js"></script>
