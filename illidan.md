@@ -251,3 +251,5 @@
 > ***Замечание:** судя по всему, Иллидан не может умереть в Super Saiyan форме. Если его здоровье опуститься до 1 в данной форме, то он тут же начнёт анимацию перехода в «более гуманоидную» форму. После трансформации он ещё 1 с. будет стоять и потом умрёт.*
 
 > ***Замечание:** если здоровье опустить во время «зарядки» Иллидана для Super Saiyan формы, то босс успеет дать пару кастов [теневого разряда](https://ru.tbc.wowhead.com/spell=41078), только потом начнёт «ослабевать» и превращаться обратно.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8_zL0BfXQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
