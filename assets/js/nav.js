@@ -12,3 +12,4 @@ $(function() {
     $(this).parent().addClass("active");
     event.preventDefault();
   });
+});
