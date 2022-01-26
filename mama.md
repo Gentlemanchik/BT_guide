@@ -107,3 +107,5 @@
 Собственно, бой проходит в одну фазу. Все сидят в своих точках и дамажат, хилят, танчат. Никуда двигаться не нужно. При [смертельном притяжением](https://ru.tbc.wowhead.com/spell=41001) следует как можно быстро разбежаться, но не в рейд или к танкам. Умрите в крайнем случае, но не похороните наиболее важных членов своего рейда. Лишь под конец на 10% босса танкам следует сдать свои кдшки (если остались), так как начнётся мини - [берсерк](https://ru.tbc.wowhead.com/spell=47008).
 
 А ***радужная*** аура … Она просто есть. Разве что РДД захотят ждать моря погоды и свои бурсты жать под свой «любимый» цвет радуги.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wRi05I7Fry4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
