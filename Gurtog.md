@@ -145,3 +145,4 @@
 
 Вторая фаза длится столько, сколько висит [Ярость скверны](https://ru.tbc.wowhead.com/spell=40604)**(1)** на боссе. А именно – 28 с. Переходя обратно на первую фазу Гуртогг попрёт на первого в тритлисте игрока. Скорее всего это будет один из танков. Он ставит босса обратно к водопаду лицом к водичке, МДД возвращаются на свои места, а кастеры и команды на ловлю [Кипящая кровь](https://ru.tbc.wowhead.com/spell=42005) собираются обратно около бассейна. «Трусики» (＾▽＾)![Тру](/img/треуг.png)  уже идут за бордюр купаться. И всё начинается заново. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ic-mr5uVJ58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
