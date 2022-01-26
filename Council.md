@@ -216,3 +216,5 @@
 > ***Замечание:** после данного боя появится Акама, с которым нужно поговорить.*
 > 
 > ***Замечание:** после убийства совета Иллидари НПС-пеплоуст при входе в Чёрный храм сможет телепортировать к данному боссу.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5CgZFHonpGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
