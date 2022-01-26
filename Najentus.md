@@ -90,3 +90,4 @@
 >***Замечание***: *Надж’ентус требователен к количеству здоровья каждого игрока, как на Леди Вайш или Верховном звездочёте Солариан. 
 Рейду нужно иметь минимум 8500 хп, чтобы переживать переходки.*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qqGNiI0f8GI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
